@@ -48,3 +48,8 @@ button {
   color: antiquewhite;
   cursor: pointer;
 }
+
+footer {
+  position: absolute;
+  bottom: 0%;
+}
